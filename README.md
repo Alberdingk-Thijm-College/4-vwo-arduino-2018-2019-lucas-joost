@@ -8,3 +8,5 @@ De basisopdracht en de "ABANDONNED" bestanden zullen nog wel blijven staan. Deze
 We gaan ervan uit hier geen minpunten voor te krijgen sinds dit een probleem is met Github en het ontbreken van de mogelijkheid om acties ongedaan te maken, waar we geen uitleg in hebben gehad.
 
 We zullen alle V2 bestanden dus verwijderen en waarschijnlijk via een Google Drive-link een map uploaden met alle versies erin en een (platte)tekstdocument waarin de versies en veranderingen per bestand beschreven staan. De commits op Github zullen echter niet verwijderd kunnen worden, hierom willen we u vragen geen aandacht te besteden aan de commits die aan een verwijderd document gekoppeld zijn. Dat zijn alle commits na "Dead end" zijn geüpload en gaan over een versie van de code.
+
+De buslijn opdracht en de voetgangersopdracht zijn niet apart uit gevoerd doordat dit niet in de opdracht stond aan gegeven. We geven hierom gewoon aan wat er veranderd is per versie.
